@@ -1,0 +1,23 @@
+.corpo{
+    background-color: crimson;
+    color: black;
+    text-align: center;
+    border: 10px;
+    border-style: groove;
+    border-color: darkslateblue;
+}
+
+p{
+    color: deepskyblue;
+    font-size: 20px;
+}
+
+#link{
+    color: aqua;
+    text-decoration: none;
+}
+
+#link:hover{
+    color: brown;
+    font-size: 15px;
+}
